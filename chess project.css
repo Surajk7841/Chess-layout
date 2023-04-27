@@ -1,0 +1,71 @@
+
+h1{text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;}
+.chess{background-color: antiquewhite; height:400px; width:400px;align-items: center;margin: auto;}
+.c1{height:50px; width:50px; background-color:rgb(114, 101, 101);}
+.c2{height:50px; width:50px; background-color:antiquewhite;}
+.c3{height:50px; width:50px; background-color:rgb(114, 101, 101);}
+.c4{height:50px; width:50px; background-color:antiquewhite;}
+.c5{height:50px; width:50px; background-color:rgb(114, 101, 101);}
+.c6{height:50px; width:50px; background-color:antiquewhite;}
+.c7{height:50px; width:50px; background-color:rgb(114, 101, 101);}
+.c8{height:50px; width:50px; background-color:antiquewhite;}
+.b1{height:50px; width:50px;background-color:antiquewhite; margin-top:-400px ; margin-left: 50px; }
+.b2{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left: 50px; }
+.b3{height:50px; width:50px; background-color:antiquewhite;margin-left: 50px; }
+.b4{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left: 50px; }
+.b5{height:50px; width:50px; background-color:antiquewhite;margin-left: 50px; }
+.b6{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left: 50px; }
+.b7{height:50px; width:50px; background-color:antiquewhite;margin-left: 50px; }
+.b8{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left: 50px; }
+.d1{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-top:-400px ; margin-left:100px ; }
+.d2{height:50px; width:50px;background-color:antiquewhite; margin-left:100px ; }
+.d3{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:100px ; }
+.d4{height:50px; width:50px;background-color:antiquewhite; margin-left:100px ; }
+.d5{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:100px ; }
+.d6{height:50px; width:50px;background-color:antiquewhite; margin-left:100px ; }
+.d7{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:100px ; }
+.d8{height:50px; width:50px;background-color:antiquewhite; margin-left:100px ; }
+.e1{height:50px; width:50px;background-color:antiquewhite; margin-top:-400px ; margin-left:150px ; }
+.e2{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:150px ; }
+.e3{height:50px; width:50px;background-color:antiquewhite; margin-left:150px ; }
+.e2{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:150px ; }
+.e3{height:50px; width:50px;background-color:antiquewhite; margin-left:150px ; }
+.e4{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:150px ; }
+.e5{height:50px; width:50px;background-color:antiquewhite; margin-left:150px ; }
+.e6{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:150px ; }
+.e7{height:50px; width:50px;background-color:antiquewhite; margin-left:150px ; }
+.e8{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:150px ; }
+.f1{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-top:-400px ; margin-left:200px ; }
+.f2{height:50px; width:50px;background-color:antiquewhite; margin-left:200px ; }
+.f3{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:200px ; }
+.f4{height:50px; width:50px;background-color:antiquewhite; margin-left:200px ; }
+.f5{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:200px ; }
+.f6{height:50px; width:50px;background-color:antiquewhite; margin-left:200px ; }
+.f7{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:200px ; }
+.f8{height:50px; width:50px;background-color:antiquewhite; margin-left:200px ; }
+.g1{height:50px; width:50px;background-color:antiquewhite; margin-top:-400px ; margin-left:250px ; }
+.g2{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:250px ; }
+.g3{height:50px; width:50px;background-color:antiquewhite; margin-left:250px ; }
+.g4{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:250px ; }
+.g5{height:50px; width:50px;background-color:antiquewhite; margin-left:250px ; }
+.g6{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:250px ; }
+.g7{height:50px; width:50px;background-color:antiquewhite; margin-left:250px ; }
+.g8{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:250px ; }
+.h1{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-top:-400px ; margin-left:300px ; }
+.h2{height:50px; width:50px;background-color:antiquewhite; margin-left:300px ; }
+.h3{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:300px ; }
+.h4{height:50px; width:50px;background-color:antiquewhite; margin-left:300px ; }
+.h5{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:300px ; }
+.h6{height:50px; width:50px;background-color:antiquewhite; margin-left:300px ; }
+.h7{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:300px ; }
+.h8{height:50px; width:50px;background-color:antiquewhite; margin-left:300px ; }
+.i1{height:50px; width:50px;background-color:antiquewhite; margin-top:-400px ; margin-left:350px ; }
+.i2{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:350px ; }
+.i3{height:50px; width:50px;background-color:antiquewhite; margin-left:350px ; }
+.i4{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:350px ; }
+.i5{height:50px; width:50px;background-color:antiquewhite; margin-left:350px ; }
+.i6{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:350px ; }
+.i7{height:50px; width:50px;background-color:antiquewhite; margin-left:350px ; }
+.i8{height:50px; width:50px;background-color:rgb(114, 101, 101); margin-left:350px ; }
+img{margin-top: 10px;margin-left: 10px;}
+
